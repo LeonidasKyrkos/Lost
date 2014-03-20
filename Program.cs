@@ -13,7 +13,7 @@ namespace Lost
             string recalCode;
             string correctCode;
 
-            x = "4 8 15 16 23 42";
+            correctCode = "4 8 15 16 23 42";
 
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Enter the core calibration sequence, then press Return:");
@@ -29,6 +29,7 @@ namespace Lost
                 Console.ReadLine();
                 string genius = "http://i.imgur.com/1WzX9.gif";
                 System.Diagnostics.Process.Start(genius);
+
             }
             else
             {
