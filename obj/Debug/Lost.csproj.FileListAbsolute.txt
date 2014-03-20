@@ -1,0 +1,6 @@
+C:\DEV\Lost\bin\Debug\Lost.exe.config
+C:\DEV\Lost\bin\Debug\Lost.exe
+C:\DEV\Lost\bin\Debug\Lost.pdb
+C:\DEV\Lost\obj\Debug\Lost.csprojResolveAssemblyReference.cache
+C:\DEV\Lost\obj\Debug\Lost.exe
+C:\DEV\Lost\obj\Debug\Lost.pdb
